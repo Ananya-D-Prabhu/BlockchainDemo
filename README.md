@@ -84,13 +84,17 @@ Download and Run Locally
 Clone the repository
 
 bash   git clone https://github.com/Ananya-D-Prabhu/BlockchainDemo.git
+
    cd blockchain-demo
 
 Open in browser
 
 bash   # Simply open index.html in your browser
+
    open index.html  # macOS
+   
    start index.html # Windows
+   
    xdg-open index.html # Linux
 <br><br>
 ## 🎮 How to Use
